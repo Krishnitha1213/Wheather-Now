@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #f0f8ff;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #007bff;
+}
+
+.card {
+  margin-top: 20px;
+}
+
