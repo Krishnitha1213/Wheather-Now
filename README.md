@@ -1,0 +1,2 @@
+# Wheather-Now
+ WeatherComponent is a sleek and interactive React-based weather application that allows users to check the current weather and hourly temperature of any city. With the integration of the Open-Meteo API, the app fetches weather data based on the city entered by the user. The user-friendly interface enables toggling between daily and hourly weather data, providing a visually appealing experience with modern styling using Material-UI.
